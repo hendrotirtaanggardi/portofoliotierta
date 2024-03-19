@@ -1,0 +1,3 @@
+npm i
+kalo error npm audit fix
+npm run serve
